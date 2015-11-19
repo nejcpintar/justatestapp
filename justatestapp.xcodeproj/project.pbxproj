@@ -74,6 +74,7 @@
 				A86BB4E81BFE6EA300EF5F78 /* Sources */,
 				A86BB4E91BFE6EA300EF5F78 /* Frameworks */,
 				A86BB4EA1BFE6EA300EF5F78 /* Resources */,
+				A86BB5011BFE6FA400EF5F78 /* ShellScript */,
 			);
 			buildRules = (
 			);
@@ -129,6 +130,23 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		A86BB5011BFE6FA400EF5F78 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "/Users/nejc/Library/Developer/Xcode/DerivedData/gitarchive-dzhruhulztnrkgdzhskjjzpoyfaz/Build/Products/Debug/gitarchive";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		A86BB4E81BFE6EA300EF5F78 /* Sources */ = {
